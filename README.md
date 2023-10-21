@@ -1,3 +1,4 @@
+Direct run link - https://preeminent-arithmetic-00ca4f.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
